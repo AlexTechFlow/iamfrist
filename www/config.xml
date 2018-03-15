@@ -2,7 +2,7 @@
 
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.danzen.tilty"
+        id        = "com.alexbelinsky.app1"      <!-- Adjusted -->
         version   = "3.0.1">
 
     <name>Tilty</name> <!-- https://github.com/danzen/Tilty/tree/master/www -->
